@@ -2,6 +2,7 @@
 
 activity-recognition/
 │
+
 ├── app.py                   # Streamlit app to run the activity recognition
 
 ├── requirements.txt         # List of dependencies
